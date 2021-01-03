@@ -1,6 +1,6 @@
 # CV-Augmented-Reality-Tool
 
-## Technion Panorama 
+## Bat-Galim Panorama 
 
 ![Output sample](https://github.com/eldadoh/CV-Augmented-Reality-Tool/blob/main/assets/our_panorama.png)
 
